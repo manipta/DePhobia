@@ -39,7 +39,7 @@ This is my Favorite Part :) In this Simulation, the User has a Hoverboard(This i
 *sound:* <a href="https://www.bensound.com">Bensound</a>
 
 ## 🔗 **Follow Me**
-[![portfolio](https://img.shields.io/badge/my_portfolio-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/manigarg)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manigargpta/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/mani_garg)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manigargpta/)
 [![twitter](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manipta)
 
 
