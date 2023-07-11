@@ -7,6 +7,7 @@ _A Video Describing Idea Behind Application:_ <a href="https://drive.google.com/
 
 # Installation
 Just download apk and install it on your Android Mobile.\
+Also Available on <a href="https://www.amazon.in/MG-Games-DePhobia/dp/B0C9M87DLX/ref=sr_1_1?keywords=dephobia&s=mobile-apps&sr=1-1">Amazon App Store (Latest Version)</a>\
 **Note: Please Allow to "Install from unknown Resources"(if trigger).**
 # Details of each Simulator
 ## **ClaustroPhobia**   
