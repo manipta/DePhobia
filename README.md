@@ -1,9 +1,9 @@
 # DePhobia
 A VR Android Application based on Exposure Therapy for Phobias. It includes three Simulations, each for Claustrophobia, Aquaphobia, and Acrophobia, respectively. This Project is done in Unity 3D.
-
-_A Video Describing Idea Behind Application:_ <a href="https://drive.google.com/drive/folders/17_NIxqbx-Wzjtl68NFbTPUTSNL4rCf_T?usp=sharing">Click Here</a>
-
+_A Video Describing Idea Behind Application:_
+<a href="https://drive.google.com/drive/folders/17_NIxqbx-Wzjtl68NFbTPUTSNL4rCf_T?usp=sharing">Click Here</a>
 ![DePhobia (2)](https://user-images.githubusercontent.com/72307020/153747421-12d0cd53-f263-4e62-bff8-a092c5814a86.png)
+
 
 # Installation
 Just download apk and install it on your Android Mobile.\
